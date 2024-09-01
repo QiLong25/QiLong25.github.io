@@ -1,0 +1,14 @@
+Prompt:
+Face directly to the front, face is at the center, include symbol of dragon, include future technology, science fiction style, red eyes, thinner nose, red hair, no eye-glasses, no mustache, background with war and fire, handsome, white skin, young, hair style stay the same as input picture, high quality.
+
+Negative Prompt:
+eye-glasses, mustache
+
+Model: Crystal Clear XL
+
+Width: 1024
+Height: 544
+Scale: 4
+Steps: 25
+Sampler:
+Seed: 466609623
